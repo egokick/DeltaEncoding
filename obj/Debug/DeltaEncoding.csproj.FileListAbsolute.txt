@@ -1,0 +1,7 @@
+c:\users\anon\source\repos\DeltaEncoding\DeltaEncoding\bin\Debug\DeltaEncoding.exe.config
+c:\users\anon\source\repos\DeltaEncoding\DeltaEncoding\bin\Debug\DeltaEncoding.exe
+c:\users\anon\source\repos\DeltaEncoding\DeltaEncoding\bin\Debug\DeltaEncoding.pdb
+c:\users\anon\source\repos\DeltaEncoding\DeltaEncoding\obj\Debug\DeltaEncoding.csprojAssemblyReference.cache
+c:\users\anon\source\repos\DeltaEncoding\DeltaEncoding\obj\Debug\DeltaEncoding.csproj.CoreCompileInputs.cache
+c:\users\anon\source\repos\DeltaEncoding\DeltaEncoding\obj\Debug\DeltaEncoding.exe
+c:\users\anon\source\repos\DeltaEncoding\DeltaEncoding\obj\Debug\DeltaEncoding.pdb
